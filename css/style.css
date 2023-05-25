@@ -368,3 +368,7 @@ body {
   display: inline-block;
   margin-bottom: 16px;
 }
+
+.vissualy-hidden {
+  padding: 0%;
+}
