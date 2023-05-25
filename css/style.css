@@ -338,8 +338,8 @@ body {
   margin-top: 96px;
 }
 
-.filters:hover,
-.filters:focus {
+.filter:hover,
+.filter:focus {
   border: 1px solid transparent;
 }
 
