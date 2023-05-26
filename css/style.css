@@ -281,10 +281,6 @@ body {
   color: #f4f4fd;
 }
 
-.second-header {
-  color: #2e2f42;
-}
-
 .features-item {
   width: calc((100%-72px) / 4);
 }
